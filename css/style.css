@@ -54,7 +54,7 @@ img:hover {
 /* create your tile classes! we recommend .small .med .large */
 column .small {
   float:left;
-  width: 48%;
+  width: 25%;
 }
 
 column .medium {

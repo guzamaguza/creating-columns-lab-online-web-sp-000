@@ -51,14 +51,17 @@ img:hover {
   display: grid;
 }
 /* create your tile classes! we recommend .small .med .large */
-.small {
+column .small {
+  float:left;
   width: 32%;
 }
 
-.medium {
+column .medium {
+  float:left;
   width: 48%;
 }
 
-.large {
+column .large {
+  float:left;
   width: 98%;
 }

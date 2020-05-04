@@ -50,6 +50,7 @@ img:hover {
 .column {
   display: grid;
 }
+
 /* create your tile classes! we recommend .small .med .large */
 column .small {
   float:left;
